@@ -96,11 +96,9 @@ status   : Open to work 🟢
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge)](https://mithun-gic.github.io/my-portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_mithunhalder)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mithunhalder01)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mithunhalder01&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![Instagram](https://img.shields.io/badge/@mithun__webdev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mithun_webdev/)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Mithun%20Halder-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-halder7491/)
 
 </div>
 
