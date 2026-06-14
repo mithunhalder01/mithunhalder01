@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a1f35"/>
+      <stop offset="55%" style="stop-color:#1e3a5f"/>
+      <stop offset="100%" style="stop-color:#58a6ff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <path d="M0,145 C150,110 350,165 550,128 C700,100 820,148 900,138 L900,200 L0,200 Z" fill="#0d1117" opacity="0.55"/>
+
+  <circle cx="310" cy="48" r="6" fill="#3fb950"/>
+  <text x="324" y="53" font-family="Arial,sans-serif" font-size="13" fill="#3fb950" font-weight="700">Available for Freelancing</text>
+
+  <text x="868" y="28" font-family="Arial,sans-serif" font-size="12" fill="#ffffff" opacity="0.75" text-anchor="end">📸 @mithun_webdev</text>
+  <text x="868" y="46" font-family="Arial,sans-serif" font-size="12" fill="#ffffff" opacity="0.75" text-anchor="end">💼 mithun-halder7491</text>
+
+  <text x="450" y="118" font-family="Arial Black,Arial,sans-serif" font-size="54" fill="#ffffff" font-weight="900" text-anchor="middle">Mithun Halder</text>
+  <text x="450" y="152" font-family="Arial,sans-serif" font-size="19" fill="#a0b4c8" font-weight="600" text-anchor="middle" letter-spacing="3">Full Stack Developer</text>
+</svg>
