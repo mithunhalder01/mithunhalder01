@@ -1,6 +1,14 @@
 <div align="center">
+<a href="https://www.instagram.com/mithun_webdev/" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58a6ff&height=200&section=header&text=Mithun%20Halder&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%93%B8%20mithun_webdev%20%20%20%7C%20%20%20%F0%9F%92%BC%20mithun-halder7491&descAlignY=62&descSize=15&descColor=a0b4c8" width="100%"/>
+</a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58a6ff&height=200&section=header&text=Mithun%20Halder&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/@mithun__webdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mithun_webdev/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/mithun--halder7491-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithun-halder7491/)
 
 </div>
 
