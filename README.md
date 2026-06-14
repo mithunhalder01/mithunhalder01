@@ -114,21 +114,40 @@ status   : Open to work 🟢
 
 ---
 
-## 📡 Let's Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://mithun-gic.github.io/my-portfolio/">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-0d1117?style=for-the-badge&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/mithun_webdev/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mithun-halder7491/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://mithun-gic.github.io/my-portfolio/">
+        <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58a6ff" />
+        <br/><sub><b>My Work</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/mithun_webdev/">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        <br/><sub><b>@mithun_webdev</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mithun-halder7491/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <br/><sub><b>mithun-halder7491</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mithunhalder01">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <br/><sub><b>mithunhalder01</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mithunhalder01&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
